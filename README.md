@@ -2,6 +2,9 @@
 
  Intel dq77kb NVMe support
 
+ - Since Intel performs signature verification on bios flashing
+ - A method to modify the firmware by read and flash it with CH341A programmer
+
 ## NvmExpressDxe_4.ffs
 
  - Size: 20,832 B
@@ -46,6 +49,6 @@
  - The end position of the new bios file is 8M (8388608 B)
  - Through comparison, it was found that the changes were in the 4M BIOS file.
 
-## Use CH341A to flash 4M BIOS File to the bios-4M-25Q32BV Chip
+## Use CH341A to flash New 4M BIOS File to the bios-4M-25Q32BV Chip
 
 ## ENJOY!

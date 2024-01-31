@@ -43,9 +43,9 @@
 
 ## Split Bios Image
 
- - The end position of the bios file is 8M (8388608 B)
+ - The end position of the new bios file is 8M (8388608 B)
  - Through comparison, it was found that the changes were in the 4M BIOS file.
 
-## Flash 4M BIOS File to bios-4M-25Q32BV Chip
+## Use CH341A to flash 4M BIOS File to the bios-4M-25Q32BV Chip
 
-## ENJOY
+## ENJOY!

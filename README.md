@@ -36,6 +36,8 @@
 
 ## Merge Bios Image
 
+ - Total Commander (v10.52)
+
 ------------------------
 
     BIOS IMAGE = <8M FILE> + <4M FILE>
@@ -51,6 +53,7 @@
 
 ## Split Bios Image
 
+ - Total Commander (v10.52)
  - The end position of the new bios file is 8M (8388608 B)
  - Through comparison, it was found that the changes were in the 4M BIOS file.
  - [bios-4M-25Q32BV-Nvme-patch.bin](bios-4M-25Q32BV-Nvme-patch.bin)

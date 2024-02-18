@@ -58,6 +58,6 @@
  - Through comparison, it was found that the changes were in the 4M BIOS file.
  - [bios-4M-25Q32BV-Nvme-patch.bin](bios-4M-25Q32BV-Nvme-patch.bin)
 
-## Use CH341A to flash New 4M BIOS File to the bios-4M-25Q32BV Chip
+## Use CH341A to flash [bios-4M-25Q32BV-Nvme-patch.bin](bios-4M-25Q32BV-Nvme-patch.bin) to the bios-4M-25Q32BV Chip
 
 ## ENJOY!

@@ -25,10 +25,12 @@
 
  - CH341A
  - bios-8M-25Q64FV
+ - [bios-8M-25Q64FV.bin](bios-8M-25Q64FV.bin)
 
 ![bios-8M-25Q64FV.png](readme%2Fbios-8M-25Q64FV.png)
 
  - bios-4M-25Q32BV
+ - [bios-4M-25Q32BV.bin](bios-4M-25Q32BV.bin)
 
 ![bios-4M-25Q32BV.png](readme%2Fbios-4M-25Q32BV.png)
 
@@ -40,14 +42,18 @@
 
 ------------------------
 
+ - [bios-backup-8M+4M-merged.bin](bios-backup-8M%2B4M-merged.bin)
+
 ## Modify Bios Image
 
  - Reference [Get NVMe support on unsupported bios with BIOS modding.pdf](readme%2FGet%20NVMe%20support%20on%20unsupported%20bios%20with%20BIOS%20modding.pdf)
+ - [bios-Nvme-patch-8M+4M-merged.bin](bios-Nvme-patch-8M%2B4M-merged.bin)
 
 ## Split Bios Image
 
  - The end position of the new bios file is 8M (8388608 B)
  - Through comparison, it was found that the changes were in the 4M BIOS file.
+ - [bios-4M-25Q32BV-Nvme-patch.bin](bios-4M-25Q32BV-Nvme-patch.bin)
 
 ## Use CH341A to flash New 4M BIOS File to the bios-4M-25Q32BV Chip
 

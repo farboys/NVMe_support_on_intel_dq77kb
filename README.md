@@ -60,4 +60,6 @@
 
 ## Use CH341A to flash [bios-4M-25Q32BV-Nvme-patch.bin](bios-4M-25Q32BV-Nvme-patch.bin) to the bios-4M-25Q32BV Chip
 
+![result.png](readme%2Fresult.png)
+
 ## ENJOY!
